@@ -12,4 +12,4 @@ Bu proje, JavaScript dilinde basit dizi işlemleri ve öğrenci bilgilerinin sak
 2. Her öğrencinin yaşları ve not ortalamaları hesaplanmıştır.
 3. Hesaplanan yaş ve not ortalamaları `console.log` ile ekrana yazdırılmıştır.
 
-Bu örnek, temel JavaScript dizisi ve dizi içindeki öğrenci bilgilerinin işlenmesi konularını anlamak için kullanılabilir.
+**Not:** Bu örnek, temel JavaScript dizisi ve dizi içindeki öğrenci bilgilerinin işlenmesi konularını anlamak için kullanılabilir.
