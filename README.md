@@ -7,7 +7,8 @@ Bu proje, JavaScript dilinde basit dizi işlemleri ve öğrenci bilgilerinin sak
 5. "Kiraz" meyvesi dizinin sonuna eklenmiştir.
 6. Dizinin son 2 elemanı silinmiştir.
 
-7. # Öğrenci Bilgileri İşlemleri
+
+ # Öğrenci Bilgileri İşlemleri
 1. Üç öğrenci bilgisi içeren bir dizi oluşturulmuştur.
 2. Her öğrencinin yaşları ve not ortalamaları hesaplanmıştır.
 3. Hesaplanan yaş ve not ortalamaları `console.log` ile ekrana yazdırılmıştır.
